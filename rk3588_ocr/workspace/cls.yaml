@@ -1,0 +1,6 @@
+PREPROCESS:
+  - type: resize
+    size: [ 48,192 ]
+    use_pad: False
+    use_rgb: True
+

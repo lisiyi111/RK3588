@@ -1,0 +1,16 @@
+原始的英文: Arrivals Departures Check-in Baggage hall Passport Cafe control Toilets Shops Flights Telephone connecting GateA1 GateA2  
+中文翻译及简短解释：  
+到达（Arrivals）：指乘客进入目的地的时间或过程。  
+离开（Departures）：指乘客从目的地离开的时间或过程。  
+检查入住（Check-in）：指乘客进入酒店或机场前的检查和安排。  
+行李室（Baggage hall）：指乘客携带行李的区域，通常位于酒店或机场内。  
+监控（Passport）：指对乘客进行安全检查和监控的措施。  
+行李区（Cafe）：指乘客携带行李的地方，通常与行李室相邻。  
+控制（control）：指对乘客行为的管理或指导。  
+浴缸（toilets）：指乘客使用浴缸的区域，通常位于酒店或机场内。  
+商店（shops）：指乘客在酒店或机场内的购物场所。  
+航班（flights）：指乘客乘坐飞机的行程。  
+电话（telephone）：指乘客通过电话联系其他人员或服务的工具。  
+连接通道（connecting）：指乘客在行李区或浴缸之间进行连接和移动的空间。  
+A1入口（GateA1）：酒店或机场的一个特定入口，通常用于前往附近的区域。  
+A2入口（GateA2）：酒店或机场的另一个特定入口，同样用于前往附近的区域

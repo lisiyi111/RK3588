@@ -1,0 +1,10 @@
+PREPROCESS:
+  - type: resize
+    size: [ 48,320 ]
+    right_pad: True
+    use_rgb: True
+
+POSTPROCESS:
+  - type: f1c3
+    label_path: './ppocr_keys_v1.txt'
+    add_space_char: True

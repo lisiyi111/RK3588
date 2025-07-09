@@ -1,0 +1,9 @@
+PREPROCESS:
+  - type: resize
+    size: [ 736,736]
+    use_pad: True
+    use_rgb: True
+
+POSTPROCESS:
+  - type: f1c4
+    db_box_thresh: 0.6

@@ -1,0 +1,8 @@
+/root/LSY/rk3588_ocr/build/CMakeFiles/st_rk3588_ai.dir
+/root/LSY/rk3588_ocr/build/CMakeFiles/demo.dir
+/root/LSY/rk3588_ocr/build/CMakeFiles/edit_cache.dir
+/root/LSY/rk3588_ocr/build/CMakeFiles/rebuild_cache.dir
+/root/LSY/rk3588_ocr/build/CMakeFiles/list_install_components.dir
+/root/LSY/rk3588_ocr/build/CMakeFiles/install.dir
+/root/LSY/rk3588_ocr/build/CMakeFiles/install/local.dir
+/root/LSY/rk3588_ocr/build/CMakeFiles/install/strip.dir
